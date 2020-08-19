@@ -36,18 +36,57 @@ I'm Aakash Hemadri a student from Chennai, India. Currently working as an intern
   <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=javascript&style=for-the-badge&logo=javascript&logoColor=f7df1e&color=grey' />
   </a>
-  <img src='https://img.shields.io/static/v1?label=&message=Sass&style=for-the-badge&logo=sass&color=cc6699&logoColor=white' />
-  <img src='https://img.shields.io/static/v1?label=&message=CMake&style=for-the-badge&logo=cmake&color=064f8c' />
-  <img src='https://img.shields.io/static/v1?label=&message=Node.js&color=339933&style=for-the-badge&logo=nodejs' />
-  <img src='https://img.shields.io/static/v1?label=&message=React.js&style=for-the-badge&logo=react&color=61dafb&logoColor=black' />
-  <img src='https://img.shields.io/static/v1?label=&message=Bootstrap&color=563d7c&style=for-the-badge&logo=bootstrap' />
-  <img src='https://img.shields.io/static/v1?label=&message=Ghost&style=for-the-badge&logo=ghost&logoColor=white&color=738a94' />
-  <img src='https://img.shields.io/static/v1?label=&message=WordPress&style=for-the-badge&logo=wordpress&color=21759b' />
-  
-  <img src='https://img.shields.io/static/v1?label=&message=Apache%20Spark&style=for-the-badge&logo=apache-spark&color=e25a1c&logoColor=white' />
-  <img src='https://img.shields.io/static/v1?label=&message=Apache%20Maven&style=for-the-badge&logo=apache-maven&color=c71a36' />
-  <img src='https://img.shields.io/static/v1?label=&message=Apache%20Kafka&style=for-the-badge&logo=apache-kafka&color=000000' />
-  <img src='https://img.shields.io/static/v1?label=&message=Nginx&style=for-the-badge&logo=nginx&color=269539&logoColor=white' />
-  <img src='https://img.shields.io/static/v1?label=&message=Docker&style=for-the-badge&logo=docker&color=2496ed&logoColor=white' />
-  <img src='https://img.shields.io/static/v1?label=&message=Digital%20Ocean&style=for-the-badge&logo=digitalocean&color=0080ff&logoColor=white' />
+  <a href='https://sass-lang.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Sass&style=for-the-badge&logo=sass&color=cc6699&logoColor=white' />
+  </a>
+  <a href='https://cmake.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=CMake&style=for-the-badge&logo=cmake&color=064f8c' />
+  </a>
+  <a href='https://nodejs.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Node.js&color=339933&style=for-the-badge&logo=nodejs' />
+  </a>
+  <a href='https://reactjs.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=React.js&style=for-the-badge&logo=react&color=61dafb&logoColor=black' />
+  </a>
+  <a href='https://getbootstrap.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Bootstrap&color=563d7c&style=for-the-badge&logo=bootstrap' />
+  </a>
+  <a href='https://ghost.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Ghost&style=for-the-badge&logo=ghost&logoColor=white&color=738a94' />
+  </a>
+  <a href='https://wordpress.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=WordPress&style=for-the-badge&logo=wordpress&color=21759b' />
+  </a>
+  <a href='https://maven.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Apache%20Maven&style=for-the-badge&logo=apache-maven&color=c71a36' />
+  </a>
+  <a href='https://www.nginx.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Nginx&style=for-the-badge&logo=nginx&color=269539&logoColor=white' />
+  </a>
+  <a href='https://www.docker.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Docker&style=for-the-badge&logo=docker&color=2496ed&logoColor=white' />
+  </a>
+  <a href='https://www.digitalocean.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Digital%20Ocean&style=for-the-badge&logo=digitalocean&color=0080ff&logoColor=white' />
+  </a>
+</div>
+
+#### What I am current learning.
+
+<div align='center'>
+  <a href='https://www.scala-lang.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=scala&logoColor=white&style=for-the-badge&logo=scala&color=dc322f' />
+  </a>
+  <a href='https://kafka.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Apache%20Kafka&style=for-the-badge&logo=apache-kafka&color=000000' />
+  </a>
+  <a href='https://spark.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Apache%20Spark&style=for-the-badge&logo=apache-spark&color=e25a1c&logoColor=white' />
+  </a>
+  <a href='https://godotengine.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Godot%20Engine&style=for-the-badge&logo=godot-engine&color=478cbf&logoColor=white' />
+  </a>
+  <a href='https://www.blender.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Blender&style=for-the-badge&logo=blender&color=f5792a&logoColor=white' />
+  </a>
 </div>
