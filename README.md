@@ -1,6 +1,6 @@
 ## Hello! 👋, nice to meet you :)
 Welcome to my profile.
-I'm Aakash Hemadri a student from Chennai, India. Currently working as an intern at KLA-Tencor.
+I'm Aakash Hemadri a student from Chennai, India. Currently working as a software intern at KLA-Tencor.
 
 <div align='center'>
   <a href='https://aakashhemadri.com' target='_blank' rel='noopener' rel='noreferrer'>
@@ -39,6 +39,12 @@ I'm Aakash Hemadri a student from Chennai, India. Currently working as an intern
   <a href='https://sass-lang.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Sass&style=for-the-badge&logo=sass&color=cc6699&logoColor=white' />
   </a>
+  <a href='https://docs.microsoft.com/en-us/dotnet/csharp/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=C%20Sharp&style=for-the-badge&logo=c-sharp&color=239120' />
+  </a>
+   <a href='https://docs.microsoft.com/en-us/dotnet/csharp/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=PHP&style=for-the-badge&logo=php&color=777bb4&logoColor=white' />
+  </a>
   <a href='https://cmake.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=CMake&style=for-the-badge&logo=cmake&color=064f8c' />
   </a>
@@ -71,7 +77,7 @@ I'm Aakash Hemadri a student from Chennai, India. Currently working as an intern
   </a>
 </div>
 
-#### What I am current learning.
+#### I am current learning.
 
 <div align='center'>
   <a href='https://www.scala-lang.org/' target='_blank' rel='noopener' rel='noreferrer'>
