@@ -77,7 +77,7 @@ I'm Aakash Hemadri a student from Chennai, India. Currently working as a softwar
   </a>
 </div>
 
-#### I am current learning.
+#### I am currently learning.
 
 <div align='center'>
   <a href='https://www.scala-lang.org/' target='_blank' rel='noopener' rel='noreferrer'>
