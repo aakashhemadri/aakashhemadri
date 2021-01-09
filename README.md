@@ -75,6 +75,12 @@ I'm Aakash Hemadri a student from Chennai, India. Currently working as a softwar
   <a href='https://www.digitalocean.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Digital%20Ocean&style=for-the-badge&logo=digitalocean&color=0080ff&logoColor=white' />
   </a>
+  <a href='https://kafka.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Apache%20Kafka&style=for-the-badge&logo=apache-kafka&color=000000' />
+  </a>
+  <a href='https://spark.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Apache%20Spark&style=for-the-badge&logo=apache-spark&color=e25a1c&logoColor=white' />
+  </a>
 </div>
 
 #### I am currently learning.
@@ -83,11 +89,8 @@ I'm Aakash Hemadri a student from Chennai, India. Currently working as a softwar
   <a href='https://www.scala-lang.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=scala&logoColor=white&style=for-the-badge&logo=scala&color=dc322f' />
   </a>
-  <a href='https://kafka.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Apache%20Kafka&style=for-the-badge&logo=apache-kafka&color=000000' />
-  </a>
-  <a href='https://spark.apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Apache%20Spark&style=for-the-badge&logo=apache-spark&color=e25a1c&logoColor=white' />
+  <a href='https://www.rust-lang.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Rust&logoColor=white&style=for-the-badge&logo=rust&color=000000' />
   </a>
   <a href='https://godotengine.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Godot%20Engine&style=for-the-badge&logo=godot-engine&color=478cbf&logoColor=white' />
