@@ -1,6 +1,6 @@
 ## Hello! 👋, nice to meet you :)
 Welcome to my profile.
-I'm Aakash Hemadri a student from Chennai, India. Currently working as a software intern at KLA-Tencor.
+I'm Aakash Hemadri a student from Chennai, India. Currently exploring Rust!.
 
 <div align='center'>
   <a href='https://aakashhemadri.com' target='_blank' rel='noopener' rel='noreferrer'>
