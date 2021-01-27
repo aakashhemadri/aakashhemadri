@@ -9,7 +9,7 @@ I'm Aakash Hemadri a student from Chennai, India. Currently exploring Rust!.
   <a href='https://linkedin.com/aakashhemadri' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=aakashhemadri&color=blue&style=for-the-badge&logo=linkedin' />
   </a>
-  <img src='https://img.shields.io/static/v1?label=PGP&message=revoked&color=critical&style=for-the-badge&logo=gnu' />
+  <img src='https://img.shields.io/static/v1?label=PGP&message=719E20AF4A7915EE5688390616DDD8A27920964C&color=success&style=for-the-badge&logo=gnu' />
   <img src='https://img.shields.io/static/v1?label=OS&message=Linux&color=blue&style=for-the-badge&logo=linux' />
   <img src='https://img.shields.io/static/v1?label=Distro&message=Arch%20Linux&color=blue&style=for-the-badge&logo=arch-linux' />
   <img src='https://img.shields.io/static/v1?label=Editor&message=VSCode&color=blue&style=for-the-badge&logo=visual-studio-code' />
